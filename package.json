@@ -1,0 +1,16 @@
+{
+  "name": "reactjs-tutorial-for-beginner",
+  "version": "1.0.0",
+  "description": "Learn to code along to build a simple to-do application by using React library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Chen",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-sass": "^2.3.1"
+  }
+}
